@@ -14,21 +14,5 @@
 #### Configure Back-End
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
 </br>
-<div>
-  <span>git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git</span>
-  <button onclick="copyToClipboard('git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git')">Copiar</button>
-</div>
-
-<script>
-  function copyToClipboard(text) {
-    const el = document.createElement('textarea');
-    el.value = text;
-    document.body.appendChild(el);
-    el.select();
-    document.execCommand('copy');
-    document.body.removeChild(el);
-    alert('Código copiado para a área de transferência!');
-  }
-</script>
-
+[git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git]()
 
