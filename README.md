@@ -21,16 +21,16 @@
 </br>
  * <p> git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git </p>
 
-**Install dependencies**
+**Install dependencies:**
  * npm i
 
-**Create the .env file with the following content**
+**Create the .env file with the following content:**
  * DATABASE_URL="file:./dev.db"
 
-**Populate the database with the command**
+**Populate the database with the command:**
  * npx prisma db seed
 
-**Start development server**
+**Start development server:**
  * npm run dev
 
 ### <h2>Configure front-end</h2>
@@ -43,10 +43,10 @@
 </br>
  * <p> git clone git@github.com:devnestali/pass-in-web.git </p>
 
-**Install dependencies**
+**Install dependencies:**
  * npm i
 
-**Start development server**
+**Start development server:**
  * npm run dev
 
 
