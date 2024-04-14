@@ -8,6 +8,7 @@
 
   * [Features](#features)
   * [Installation](#installation)
+  * [License](#license)
 
 ## 📒 **FEATURES** <a name="features"></a>
   * Integrate with API in Node.js
@@ -59,5 +60,8 @@
 **Start development server:**
  * npm run dev
 </br>
+
+## 🔥 License <a name="license"></a>
+This project was made during *NLW Unite* by *Rocketseat*
 
 
