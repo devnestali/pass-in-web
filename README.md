@@ -4,7 +4,7 @@
 
 ![pass-in-web-gif](https://github.com/devnestali/pass-in-web/assets/115426738/26743378-e43a-4f97-a9fa-006919836ca0)
 
-📌 ### **FEATURES**
+📌  <span style="text-transform: uppercase; font-size: 20px;">**FEATURES**</span>
 
   * [Installation](#installation)
 
