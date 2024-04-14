@@ -20,21 +20,26 @@
 **SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:**
 </br>
  * <p> git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git </p>
+
+</br>
 **Install dependencies:**
  * npm i
 </br>
 
+</br>
 **Create the .env file with the following content:**
  * DATABASE_URL="file:./dev.db"
 </br>
 
+</br>
 **Populate the database with the command:**
  * npx prisma db seed
 </br>
-
+</br>
 **Start development server:**
  * npm run dev
 </br>
+
 ### <h2>Configure front-end</h2>
 
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
@@ -45,8 +50,11 @@
 </br>
  * <p> git clone git@github.com:devnestali/pass-in-web.git </p>
 
+</br>
 **Install dependencies:**
  * npm i
+</br>
+
 </br>
 **Start development server:**
  * npm run dev
