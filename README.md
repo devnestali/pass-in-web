@@ -14,8 +14,6 @@
 #### Configure Back-End
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
 </br>
-[link](https://www.example.com/my%20great%20page)
-
-<a href="https://www.example.com/my great page">link</a>
+[!IMPORTANT]
 
 
