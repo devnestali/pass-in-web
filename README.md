@@ -15,11 +15,11 @@
 
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
 </br>
- * <p syle="color= black; ">git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git</p>
+ * <p> git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git </p>
 
 **SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:**
 </br>
- * <p>git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git</p>
+ * <p> git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git </p>
 
 **Install dependencies**
  * npm i
