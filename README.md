@@ -35,7 +35,6 @@
 
 **Start development server:**
  * npm run dev
-</br>
 
 ### <h2>Configure front-end</h2>
 
