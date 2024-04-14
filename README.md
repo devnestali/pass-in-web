@@ -12,9 +12,26 @@
 ## 👷‍♂️**INSTALLATION** <a name="installation"></a>
 
 ### Configure Back-End
+
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
 </br>
-* git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git
+ * git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git
+
+**SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:**
+</br>
+ * git clone git@github.com:rocketseat-education/nlw-unite-nodejs.git
+
+**Install dependencies**
+ * npm i
+
+**Create the .env file with the following content**
+ * DATABASE_URL="file:./dev.db"
+
+**Populate the database with the command**
+ * npx prisma db seed
+
+**Start development server**
+ * npm run dev
 
 
 
