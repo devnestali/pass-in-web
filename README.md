@@ -14,4 +14,19 @@
 #### Configure Back-End
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
 </br>
-[![Copiar Código](https://img.shields.io/badge/Copiar-Código-green?logo=git&style=flat-square)](javascript:void(0);)
+<a id="copyButton" href="#" onclick="copyToClipboard('https://github.com/rocketseat-education/nlw-unite-nodejs.git'); return false;">
+  <img src="https://img.shields.io/badge/Copiar-Código-green?logo=git&style=flat-square" alt="Copiar Código">
+</a>
+
+<script>
+  function copyToClipboard(text) {
+    const el = document.createElement('textarea');
+    el.value = text;
+    document.body.appendChild(el);
+    el.select();
+    document.execCommand('copy');
+    document.body.removeChild(el);
+    alert('Código copiado para a área de transferência!');
+  }
+</script>
+
