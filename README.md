@@ -6,8 +6,14 @@
 
 ## 📌**TABLE OF CONTENT**
 
+  * [Features](#features)
   * [Installation](#installation)
 
+## 📒 **FEATURES** <a name="features"></a>
+  * Integrate with API in Node.js
+  * Search by attendee
+  * Pagination
+  * Set URL statements with query params
 
 ## 👷‍♂️**INSTALLATION** <a name="installation"></a>
 
