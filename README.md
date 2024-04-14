@@ -14,7 +14,7 @@
 #### Configure Back-End
 **You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
 </br>
-* git clone <p>https://github.com/rocketseat-education/nlw-unite-nodejs.git</p>
-
+git clone https://github.com/rocketseat-education/nlw-unite-nodejs.git
+[![Copiar Comando](https://img.shields.io/badge/Copiar-Comando-green?logo=git&style=flat-square)](javascript:void(0);)
 
 
