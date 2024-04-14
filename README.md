@@ -33,5 +33,21 @@
 **Start development server**
  * npm run dev
 
+### <h2>Configure front-end</h2>
+
+**You need to install <a href="https://nodejs.org/en/download/">Node.js</a> and then, to clone the project via HTTPS, run this command:** 
+</br>
+ * <p> git clone https://github.com/devnestali/pass-in-web.git </p>
+
+**SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:**
+</br>
+ * <p> git clone git@github.com:devnestali/pass-in-web.git </p>
+
+**Install dependencies**
+ * npm i
+
+**Start development server**
+ * npm run dev
+
 
 
