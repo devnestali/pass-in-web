@@ -62,6 +62,6 @@
 </br>
 
 ## 🔥 License <a name="license"></a>
-This project was made during *NLW Unite* by *Rocketseat*
+This project was made during *NLW Unite* by [!rocketseat](https://www.rocketseat.com.br/)
 
 
